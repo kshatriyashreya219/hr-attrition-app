@@ -1,4 +1,4 @@
-### 🔗 Live Demo: https://hr-attrition-app.streamlit.app | 📂 GitHub: https://github.com/kshatriyashreya219/hr-attrition-app
+### 🔗 Live Demo: https://hr-attrition--app.streamlit.app | 📂 GitHub: https://github.com/kshatriyashreya219/hr-attrition-app
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
